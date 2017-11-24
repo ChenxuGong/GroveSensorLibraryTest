@@ -12,7 +12,7 @@ libs:
   - origin: https://github.com/mongoose-os-libs/mjs
   - origin: https://github.com/mongoose-os-libs/adc
   - origin: https://github.com/mongoose-os-libs/pwm
-  - origin: https://github.com/mongoose-os-libs/gpio
+  - origin: git@github.com/mongoose-os-libs/gpio
 tags:
   - c
   - js
