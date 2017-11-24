@@ -9,11 +9,10 @@ filesystem:
   - fs
 
 libs:
-  - origin: git@github.com/mongoose-os-libs/mjs
-  - origin: git@github.com/mongoose-os-libs/adc
-  - origin: git@github.com/mongoose-os-libs/pwm
-  - origin: git@github.com/mongoose-os-libs/gpio
-
+  - origin: https://github.com/mongoose-os-libs/mjs
+  - origin: https://github.com/mongoose-os-libs/adc
+  - origin: https://github.com/mongoose-os-libs/pwm
+  - origin: https://github.com/mongoose-os-libs/gpio
 tags:
   - c
   - js
